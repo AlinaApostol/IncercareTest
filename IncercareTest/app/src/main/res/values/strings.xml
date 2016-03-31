@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IncercareTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="inputText">Numbers</string>
+    <string name="computeText">Computed</string>
+    <string name="add">ADD</string>
+    <string name="compute">COMPUTE</string>
+    <string name="title_activity_secund">SecundActivity</string>
+</resources>
